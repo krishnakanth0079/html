@@ -1,0 +1,41 @@
+
+/* Separate stylesheet (no styling in the HTML code)
+Selectors (use at least element, id and class selectors)
+Colors - use hexadecimal/rgb/rgba format 
+Background
+Border
+Google font
+Box model (use padding and margin  */
+body{
+ background-color: aliceblue;
+ margin: auto;
+}
+.header{
+background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+text-align: center;
+color:#ffffff;
+size: 500px;
+font-family: 'Trebuchet MS', sans-serif;
+}
+#img{
+float: left;
+height: 430px;
+width: 500px;
+border-style: solid;
+border-color: #4400ff;
+margin: 20px;
+}
+
+
+p{
+background-color;
+text-align: justify;
+margin-left: 20px;
+padding: auto; 
+font-size: 20px;
+font-family: "Sofia", sans-serif;
+color:brown;
+}
+span{
+    color: #4400ff;
+}
